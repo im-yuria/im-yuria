@@ -26,7 +26,6 @@
 
 <div align="center" display="inline-block">
 <a href="https://github.com/im-yuria">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=im-yuria&show_icons=true&theme=nord&include_all_commits=true&count_private=true&custom_title=GitHub Status"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-yuria&layout=default&langs_count=7&theme=nord&custom_title=Languages"/>
+  <img widht="100%" src="https://github-readme-stats.vercel.app/api?username=im-yuria&show_icons=true&theme=nord&include_all_commits=true&count_private=true&custom_title=GitHub Status"/>
 </a>
 </div>
